@@ -5,13 +5,10 @@ Bem-vindo(a) ao meu repositório de estudos sobre **PHP**, uma das linguagens de
 ---
 
 ## 🚀 Objetivo
-
 > Aprender PHP do básico ao avançado, com foco na criação de aplicações web dinâmicas, seguras e bem estruturadas.
-
 ---
 
 ## 📚 Conteúdo abordado
-
 ✅ Introdução ao PHP e sintaxe básica  
 ✅ Variáveis, operadores e estruturas de controle  
 ✅ Arrays, funções e manipulação de strings  
@@ -21,18 +18,11 @@ Bem-vindo(a) ao meu repositório de estudos sobre **PHP**, uma das linguagens de
 ✅ Sessões, cookies e autenticação de usuários  
 ✅ Validação e segurança de dados (XSS, SQL Injection)  
 ✅ Boas práticas e organização de código
-
 ---
 
 ## 🛠️ Tecnologias utilizadas
-
 - PHP 7/8
 - HTML5 + CSS3
 - MySQL
 - Apache (XAMPP, WAMP ou similar)
 - Visual Studio Code
-
----
-
-## 📁 Estrutura do projeto
-
