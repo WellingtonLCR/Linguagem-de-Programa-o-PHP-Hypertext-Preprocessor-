@@ -313,7 +313,19 @@
             } else {
                 echo "<p><strong>Resultado:</strong> Falso. $nome_contexto_14, com $idade_14 anos, tem 18 anos.</p>";
             }
-            echo "    </div><hr/>";
+
+            // Operadores lógicos servem para conectar operações de comparação criando uma condição mais complexas
+            // Exemplos: AND ou ou &&, OR ou ||, XOR, NOT
+
+            //AND ou ou && - Verifica se todas as condições são verdadeiras.
+
+            //OR ou || - Verifica se pelo menos uma das condições é verdadeira.
+
+            //XOR - Verifica se apenas uma das condições é verdadeira.
+
+            //NOT - Verifica se a condição eh falsa.
+
+            echo "    </div><hr/>"; 
 
             echo "</body>";
             echo "</html>";
