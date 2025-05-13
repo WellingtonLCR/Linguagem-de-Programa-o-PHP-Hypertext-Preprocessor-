@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Praticando Operdores de Comparação</title>
+        <title>Praticando Operdores de Comparação - Parte 1</title>
     </head>
 
     <body>
@@ -26,17 +26,17 @@
         echo '<br/><br/>';
 
         //3
-        if ('x' != 'x') {
-            echo 'Verdadeiro';
-        } else {
-            echo 'Falso';
-        }
-        //lembrando que podemos usar != para diferente de e <> para diferente de
-        if ('x' <> 'x') {
-            echo 'Verdadeiro';
-        } else {
-            echo ' Falso';
-        }
+        if (5 != 5) {
+                echo 'Verdadeiro';
+            } else {
+                echo 'Falso';
+            }
+            // lembrando que podemos usar != para diferente de e <> para diferente de
+            if (5 <> 5) {
+                echo ' - Verdadeiro';
+            } else {
+                echo ' - Falso';
+            }
 
         echo '<br/><br/>';
 
@@ -85,7 +85,7 @@
 
         echo '<br/><br/>';
 
-        if ('a' != 'b') {
+        if (5 != 4) {
             echo 'Verdadeiro';
             echo ' - Segunda instrução';
             echo ' - Terceira instrução';
