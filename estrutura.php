@@ -1,4 +1,6 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+
     <head>
         <meta charset="UTF-8">
         <title>Embutindo código PHP em Página HTML</title>
@@ -6,9 +8,12 @@
 
     <body>
         <?php
-            echo 'Utilizando a tag padrão';
+        echo 'Utilizando a tag padrão';
         ?>
-        <br/>
+
+        <br />
+        
         <?= 'Utilizando a tag impressão' ?>
     </body>
+
 </html>
