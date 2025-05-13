@@ -36,7 +36,7 @@ Para dar um gostinho de como o PHP se parece, aqui está um exemplo clássico de
 
 ```php
     <?php
-    echo "Olá, Mundo!";
+        echo "Olá, Mundo!";
     ?>
 ```
 
