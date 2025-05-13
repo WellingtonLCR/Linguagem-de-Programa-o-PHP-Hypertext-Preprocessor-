@@ -25,6 +25,8 @@
             echo "    <h1>Exemplos de Operadores Lógicos e de Comparação em PHP</h1>";
             echo "    <p>Este script demonstra o uso de diversos operadores em PHP, com explicações detalhadas sobre cada um e os resultados das comparações. Altere os valores das variáveis comentadas como 'Valor para teste' para observar diferentes comportamentos.</p>";
 
+            // Operadores de Comparação servem para comparar valores, retornando verdadeiro ou falso.
+            
             // 1. Operador de Igualdade (==): Compara se os valores são iguais, realizando conversão de tipo se necessário.
             echo "    <h3>1. Demonstração do Operador de Igualdade (<code>==</code>)</h3>";
             echo "    <div class='code-block'>";
@@ -199,7 +201,19 @@
             } else {
                 echo "        <p><strong>Resultado:</strong> Você é MENOR de idade, pois tem $idade_maioridade_10 anos.</p>";
             }
-            echo "    </div><hr/>";
+
+            // Operadores lógicos servem para conectar operações de comparação criando uma condição mais complexas
+            // Exemplos: AND ou ou &&, OR ou ||, XOR, NOT
+
+            //AND ou ou && - Verifica se todas as condições são verdadeiras.
+
+            //OR ou || - Verifica se pelo menos uma das condições é verdadeira.
+
+            //XOR - Verifica se apenas uma das condições é verdadeira.
+
+            //NOT - Verifica se a condição eh falsa.
+
+            echo "    </div><hr/>"; 
 
             echo "</body>";
             echo "</html>";
